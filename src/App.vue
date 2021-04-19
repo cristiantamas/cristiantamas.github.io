@@ -1,17 +1,20 @@
 <template>
-    <section id="main" class="h-screen bg-backgroundColor">
+    <section id="main" class="bg-backgroundColor">
       <Header />
+      <Intro />
     </section>
 </template>
 
 <script>
 
 import Header from './components/header/Header'
+import Intro from './components/Intro'
 
 export default {
   name: 'App',
   components: {
-    Header
+    Header,
+    Intro
   }
 }
 </script>
