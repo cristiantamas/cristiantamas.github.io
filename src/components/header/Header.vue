@@ -5,7 +5,7 @@
   >
     <!-- Name-->
     <a 
-      class="flex flex-1 flex-wrap content-center text-2xl mr-5 text-gray-300 hover:text-gray-100"
+      class="flex flex-1 flex-wrap content-center lg:text-2xl sm:text-xl mr-5 text-gray-300 hover:text-gray-100"
       href="https://cristiantamas.github.io"
     > 
       &lt; Cristian Tamas /&gt;
